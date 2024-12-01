@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A circular tank of diameter 4m contains water upto a height of 5.4m. The tank is provided with an orifice of diameter 0.57m at the bottom. <br> Find the time taken by the water:- <ol> <li>to fall from 5.4m to 2.7m.</li> <li> for completely emptying the tank.</li> </ol>  Take cd = 0.6",
+      "qid": 1,
+      "option_a": "30.13s and 84.3s",
+      "option_b": "23.64s and 90.47s",
+      "option_c": "28.71s and 81.28s",
+      "option_d": "25.22s and 86.11s",
+      "correct_option": "d"
+   },
+   {
+      "question": "A circular tank of diameter 4.3m contains water upto a height of 4.9m. The tank is provided with an orifice of diameter 0.53m at the bottom. <br> Find the time taken by the water:- <ol> <li>to fall from 4.9m to 3.1m.</li> <li> for completely emptying the tank.</li> </ol>  Take cd = 0.62",
+      "qid": 2,
+      "option_a": "23.3s and 105.75s",
+      "option_b": "24.86s and 109.62s",
+      "option_c": "21.71s and 106.11s",
+      "option_d": "27.3s  and 101.75s",
+      "correct_option": "c"
+   }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Flow through large orifice from side of tank is given by",
+        "qid": 1,
+        "option_a": "$$ C_d b \\sqrt{2g} [H_2^{3/2} - H_1^{3/2}] $$",
+        "option_b": "$$ \\frac{2}{3} C_d b \\sqrt{g} [H_2^{3/2} - H_1^{3/2}] $$",
+        "option_c": "$$ \\frac{2}{3} C_d b \\sqrt{2g} [H_1^{3/2}] $$",
+        "option_d": "$$ \\frac{2}{3} C_d b \\sqrt{2g} [H_2^{3/2} - H_1^{3/2}] $$",
+        "correct_option": "d"
+    },
+    {
+        "question": "Discharge through fully submerged orifice is given by",
+        "qid": 2,
+        "option_a": "$$ C_d b (H_1) \\sqrt{2gH} $$",
+        "option_b": "$$ C_d b (H_2 - H_1) \\sqrt{2gH} $$",
+        "option_c": "$$ C_d b (H_1 - H_1) \\sqrt{2gH} $$",
+        "option_d": "$$ C_d (H_2 - H_1) \\sqrt{gH} $$",
+        "correct_option": "b"
+    },
+    {
+        "question": "Time to empty the tank from an orifice at the bottom of the tank",
+        "qid": 3,
+        "option_a": "$$ T = \\frac{2A \\sqrt{H_1}}{C_d a \\sqrt{2g}} $$",
+        "option_b": "$$ T = \\frac{2A \\sqrt{H_1}}{C_d a} $$",
+        "option_c": "$$ T = \\frac{2A \\sqrt{H_1}}{a \\sqrt{2g}} $$",
+        "option_d": "$$ T = \\frac{\\sqrt{H_1}}{C_d a \\sqrt{2g}} $$",
+        "correct_option": "a"
+    }
+]
